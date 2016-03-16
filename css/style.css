@@ -30,3 +30,8 @@ p.intro {
   font-size: 18;
 
 }
+
+.bold {
+  font-weight: bold;
+  color: green;
+}
