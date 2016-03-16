@@ -1,0 +1,32 @@
+h2.intro {
+  font-family: sans-serif;
+  color: navy;
+  clear:right;
+
+  max-width: 700px;
+}
+
+img.intro {
+  float: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 60px;
+  width: 300px;
+}
+div.intro {
+display: inline-block;
+}
+h1{
+  text-align: center;
+  color: salmon;
+  text-decoration: underline;
+  padding-bottom: 50px;
+  padding-top: 30px;
+
+}
+
+p.intro {
+  font-style: italic;
+  font-size: 18;
+
+}
